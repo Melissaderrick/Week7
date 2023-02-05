@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Private In Home Care
+        </title>
+    </head>
+    <b><h1><center>Compassionate Health Care Services</center></h1></b>
+    <i><center><h4>Healthcare in the comfort of your own home</h4></center></i>
+    <center>
+    <img src="home-health-care1.jpeg"/<
+<br>
+
+    <ul>
+        
+        <li>Voted Top 5 Best Home Health in Massachusetts 2021</li>
+        <li>Top 3 Highest Ranking Home Health Businesses in Ma for BBB</li>
+        <li>Accredited by Commsion for Health Care </li>
+
+    </ul>
+        <a href="page2.html">What We Do</a><br>
+<a href="page3.html">What makes us different from the others?</a><br>
+<a href="page4.html">Meet our Staff</a>
+    </center>
+    <br>
+    <br>
+    <center>
+        <img src="https://medcitynews.com/uploads/2021/02/GettyImages-1187849039.jpg"
+        width="400"
+        height="250"
+        />
+        <br>
+        <br>
+        <img src="https://www.specialtouchhomecare.com/wp-content/uploads/2021/12/Female-nurse-taking-care-of-a-senior-man-at-home.jpg"
+        width="400"
+        height="250"
+        />
+
+    </center>
+    <center>
+        <table>
+            <tr>
+                <th> Nursing Home vs</th>
+                <th>Private In home Care</th>
+  </tr>
+  <tr>
+    <td>Short staffed</td>
+    <td>Own personal staff</td>
+  </tr>
+  <tr>
+  <td>Minimal time to spend with clients</td>
+<td> Time to build meaningful relationships</td>
+  </tr>
+  <tr>
+    <td>Lower safety measures</td>
+    <td>Safety is monitored 24/7</td>
+  </tr>
+  <tr>
+    <td>Minimal visiting hours</td>
+    <td>Visitors can come and go at clients request</td>
+  </tr>
+  <tr>
+    <td>Bland, frozen or canned meals</td>
+    <td>Nutritous, freshly prepared meals at home</td>
+  </tr>
+        </table>
+    </center>
+    <br>
+<br>    
+
+
+How would you like us to contact you?
+<br>
+<br>
+<form>
+<input type="radio" name="Contact Method" value="Email"> Email <br>
+<input type="radio" name="Contact Method" value="Phone"> Phone <br>
+<input type="radio" name="Contact Method" value="Mail"> Mail <br>
+<input type="Submit"value="Submit"
+<br>
+<br>
+<br>
+<form>
+    <input type="text" name="First Name" placeholder="First Name"<br>
+   <input type="text" name="Last Name" placeholder="Last Name"<br>
+<input type="text" name="Email Address" placeholder="Email Address"<br>
+<input type="text" name="Phone Number" placeholder="Phone Number"<br>
+<input type="text" name="Maiiling Address" placeholder="Mailing Address"<br>
+
+</form> 
+
+
+    
+</html>
